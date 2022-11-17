@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahaling-Preethi
+- 👋 Hi, I’m Preethi
 - I am a Computer Science student at Ellenki Institute of Engineering and Technology.
 - Right now I am learning JavaScript and Git bash
 <!---
